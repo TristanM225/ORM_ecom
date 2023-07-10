@@ -35,11 +35,11 @@ Product.init(
         isNumber: true, // Reserch this line, need to validate value is Number
       },
     },
-    category_id: {
-      type: DataTypes.INTEGER,
+    product_id: {
+      type: DataTypes.STRING,
       allowNull: false,
       references: {
-        model: Category,
+        model: 'product',
         key: 'id',
       },
     },
