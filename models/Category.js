@@ -13,16 +13,16 @@ Category.init(
       autoIncrement: true,
     },
     category_name: {
-      type: DataTypes.STRING,
+      type: DataTypes.STRING(255),
       allowNull: false,
     },
-    category_id: {
-      type: DataTypes.STRING,
-      references: {
-        model: 'category',
-        key: 'id',
-      },
-    },
+    // category_id: {
+    //   type: DataTypes.STRING(255),
+    //   references: {
+    //     model: 'category',
+    //     key: 'id',
+    //   },
+    // },
   },
   {
     sequelize,
