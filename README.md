@@ -19,6 +19,9 @@
 
 
 ## Screenshots / Links
+[ECOM_project.webm](https://github.com/TristanM225/ORM_ecom/assets/126945628/2307cce3-a753-4038-9392-5a4858c815a8)
+
+
 ![Screenshot of project](./assets/images/ECOMpic.JPG)
 
 - Link to github
