@@ -19,22 +19,27 @@
 
 
 ## Screenshots / Links
-![Screenshot of project](./assets/images/screenshot.JPG)
-Links to my deployed page! 
-https://tristanm225.github.io/Portfolio/ 
+![Screenshot of project](./assets/images/ECOMpic.JPG)
+
+- Link to github
+https://github.com/TristanM225/ORM_ecom
 
 
 
 ## Setup
-N/A
+- npm I
+- SOURCE schema.sql
+- npm run seed
+- npm run start
 
 ## Usage
-To get scouted for a job!
+- Create a almost inventory like system 
+- Create a back end for a ECOM
 
 
 ## Project Status
-Project is: _in progress_ 
-This will be a on going project because learning will never stop!
+Project is: _complete_ 
+
 
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
@@ -43,18 +48,12 @@ Room for improvement:
 - Styling
 - Cleaning up text / removing unneccessary code
 
-To do:
-- Animations
-- Interactivity
-- Possible gradiance
-- Adding additional projects
 
 ## Credit / Acknowledgements 
-Took ideas from 22-Stu_Mini-Project from the UCSD coding boot camp folder
+Took ideas from UCSD coding boot camp folder. 
+Also watched a lot of the zoom office hours. Big Thanks to oswaldo for asking questions.
+Big Thanks to Micheal, Nirav and Julius for helping answer any questions
 
-Learned how to add a image to the title bar from WBdocs https://www.w3docs.com/snippets/html/how-to-add-an-image-in-the-title-bar.html 
-
-Took the zoom function from W3 https://www.w3schools.com/howto/howto_css_zoom_hover.asp 
 
 ## Contact
 Created by TristanM225 Reach out to me by email! TristanM225@gmail.com
